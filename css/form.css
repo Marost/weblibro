@@ -1,0 +1,104 @@
+body{
+	text-align: left;
+	background-image: url('../imagenes/formulario/fondo.jpg');
+	background-repeat: repeat;
+	font-family: 'Arial';
+	font-size: 14px;
+}
+
+.content{
+	width: 620px;
+	margin: 0 auto;
+}
+
+p.info{
+	color: #f00;
+	margin: 15px 0 0px 0;
+}
+
+h1{
+	font-weight: 900;
+	font-size: 36px;
+	color: #aaaaaa;
+	margin: 0 0 5px 0;
+}
+
+.contenido{
+	background-color: #fff;
+	padding: 10px 10px 10px 0;
+	width: 610px;
+	float: left;
+
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-moz-box-shadow: 0px 0px 10px #939393;
+	-webkit-box-shadow: 0px 0px 10px #939393;
+	box-shadow: 0px 0px 10px #939393;
+}
+
+.item{
+	width: 100%;
+	float: left;
+	margin-bottom: 15px;
+}
+
+label{
+	background-image: url('../imagenes/formulario/label.jpg');
+	width: 140px;
+	height: 30px;
+	display: block;
+	float: left;
+	background-repeat: repeat-x;
+	padding: 13px 0 0 30px;
+	color: #4c4c4c;
+}
+
+input{
+	width: 390px;
+	height: 33px;
+	padding: 5px 10px;
+	background-image: url('../imagenes/formulario/input.jpg');
+	border: none;
+	display: block;
+	float: left;
+	font-size: 16px;
+}
+
+textarea{
+	width: 390px;
+	height: 78px;
+	padding: 5px 10px;
+	background-image: url('../imagenes/formulario/textarea.jpg');
+	border: none;
+	display: block;
+	float: left;
+	font-size: 16px;
+	resize: none;
+}
+
+.item-texto{
+	text-align: center;
+	color: #4c4c4c;
+}
+
+p.cuenta{
+	font-size: 18px;
+	margin: 10px 0 0 0;
+}
+
+p.cuentai {
+	margin: 0;
+}
+
+.boton{
+	text-align: center;
+}
+
+input#comprar{
+	background-image: url('../imagenes/formulario/boton.jpg');
+	width: 96px;
+	height: 37px;
+	margin-left: 270px;
+	cursor: pointer;
+}
