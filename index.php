@@ -31,7 +31,7 @@
       
       jPopUp("#comprar").click(function() {
         jPopUp.fancybox.open({
-          href : 'iframe.html',
+          href : 'iframe.php',
           type : 'iframe',
           padding : 5
         });
