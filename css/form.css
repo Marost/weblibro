@@ -16,6 +16,11 @@ p.info{
 	margin: 15px 0 0px 0;
 }
 
+span.info{
+	color: #f00;
+	font-weight: bold;
+}
+
 h1{
 	font-weight: 900;
 	font-size: 36px;

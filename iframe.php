@@ -5,7 +5,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Formulario</title>
 	<link href="css/font.css" media="screen, projection" rel="stylesheet" type="text/css" />
-	<link href="css/form.css?update" rel="stylesheet" type="text/css" />
+	<link href="css/form.css?up" rel="stylesheet" type="text/css" />
 	<script type="text/javascript">var submitted=false;</script>
 </head>
 <body>
@@ -49,7 +49,7 @@
 				</div>
 
 				<div class="item-texto">
-					<p>Enviar la copia del voucher e indicar el Nº Operación, Fecha , Banco y Nº Pedido <br> al correo: ventas@g7consultores.com</p>
+					<p class="cuenta"><span class="info">Enviar la copia del voucher</span> e indicar el Nº Operación, <br> Fecha , Banco y Nº Pedido al correo: ventas@g7consultores.com</p>
  
 					<p>Su pedido será programado para envío una vez que le respondamos el <br> correo y se confirme el depósito dentro de las 24 horas.</p>
 
