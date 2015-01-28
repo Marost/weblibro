@@ -58,6 +58,8 @@
 					<p class="cuenta">SCOTIABANK Cuenta corriente en dólares 000-4548309</p>
 					<p class="cuentai">Código de Cuenta Interbancario: 009-010-000004548309-06</p>
 
+					<p class="cuenta">Cuenta a nombre de: G7 Consultores S.A.C.<br>RUC: 20556855251<br>Lima</p>
+
 					<p>En caso de no recibir nuestra confirmación <br> sirvase comunicarse con nosotros al 789-4109</p>
 
 					<p>Su pedido llegará en un maximo de 72 horas</p>
